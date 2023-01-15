@@ -1,9 +1,8 @@
-- Hey, I'm Batuhan!
-- I’m interested in Full-Stack Development.
-- I’m currently learning Javascript and React.
-- Here is the link to my portfolio where all my recent projects can be found <a href="https://loquacious-croquembouche-4a1f10.netlify.app/"> Portfolio <a>
-- Here is the link to my first interactive <a href="https://super-praline-5f4407.netlify.app/?"> weather app </a>
-- 📫 Here is how to reach me on <a href="https://www.linkedin.com/in/natasha-mwafulirwa-649115203/"> Linkedin </a>fffff
+- 👋 Hey, I'm Batuhan!
+- 👀 I’m interested in Full-Stack Development.
+- 🌱 I’m currently learning Javascript and React.
+- Here is the link to my portfolio where all my recent projects can be found <a href="https://www.batuhan-satilmis.com/"> Portfolio <a>
+- 📫 Here is how to reach me on <a href="https://www.linkedin.com/in/batuhansatilmis-184609261//"> Linkedin </a>fffff
 
 <!---
 batuhan-satilmis/batuhan-satilmis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
