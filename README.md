@@ -13,7 +13,6 @@ I'm an Information Security professional focused on **cybersecurity analysis, ri
 - 🎓 **BAS in Information Security & Assurance** — University of Hawaii, West Oahu
 - 🛡️ **CompTIA Security+** certified
 - 🏢 **Founder** of [Forsman Technology & Consulting](https://forsmantech.com) — IT security consulting for SMBs
-- 🔍 Attended **RSAC 2026** in San Francisco
 
 ---
 
