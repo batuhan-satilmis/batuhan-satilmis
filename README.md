@@ -20,7 +20,7 @@ I'm an Information Security professional focused on **cybersecurity analysis, ri
 ## Focus Areas
 
 ```
-Threat Modeling & Vulnerability Assessment    NIST CSF / ISO 27001 / SOC 2 / HIPAA
+Threat Modeling & Vulnerability Assessment   NIST CSF / ISO 27001 / SOC 2 / HIPAA
 GRC (Governance, Risk & Compliance)          RBAC & Zero Trust Architecture
 Incident Response & Security Hardening       Secure SDLC & OWASP Practices
 Cloud Security (AWS, Azure AD)               Python Security Scripting & Automation
