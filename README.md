@@ -1,64 +1,71 @@
 # Hi, I'm Batuhan Satilmis 👋
 
-**Cybersecurity Analyst | IT & Security Consultant | Founder, Forsman Technology & Consulting**
+### Application Security Engineer · IT Security Consultant · GRC Analyst
 
-📍 San Francisco Bay Area &nbsp;|&nbsp; 🌐 [forsmantech.com](https://forsmantech.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/batuhan-satilmis)
+📍 San Francisco Bay Area · Open to remote and hybrid
+🌐 [forsmantech.com](https://forsmantech.com) · 💼 [LinkedIn](https://linkedin.com/in/batuhan-satilmis) · ✉️ batuhan@satilmis.me
 
 ---
 
-## About Me
+## About
 
-I'm an Information Security professional focused on **cybersecurity analysis, risk assessment, and security consulting** — helping organizations identify vulnerabilities, strengthen defenses, and align technology with compliance requirements.
+Application-security-focused practitioner. I design, build, and harden production SaaS against the OWASP Top 10 — RBAC, JWT auth, Supabase Row-Level Security, field-level encryption, CSP/CSRF defenses, audit logging — and translate the result into NIST CSF / SOC 2 / HIPAA strategy that engineering and executive audiences both understand.
 
-- 🎓 **BAS in Information Security & Assurance** — University of Hawaii, West Oahu
+Currently founder & security consultant at **[Forsman Technology & Consulting LLC](https://forsmantech.com)**, where I built the **Forsman CRM** — a multi-tenant SaaS platform implementing the full OWASP Top 10 control set — and deliver NIST CSF–aligned posture assessments, Zero Trust roadmaps, and HIPAA-aware integrations for SMB clients.
+
+- 🎓 **B.A.S. Information Security & Assurance** — University of Hawaii, West Oahu
 - 🛡️ **CompTIA Security+** certified
-- 🏢 **Founder** of [Forsman Technology & Consulting](https://forsmantech.com) — IT security consulting for SMBs
+- 📰 Author of **5 published industry briefs** on Industrial Control Systems & critical infrastructure cybersecurity (UH West Oahu CSCC)
 
 ---
 
 ## Focus Areas
 
 ```
-Threat Modeling & Vulnerability Assessment   NIST CSF / ISO 27001 / SOC 2 / HIPAA
-GRC (Governance, Risk & Compliance)          RBAC & Zero Trust Architecture
-Incident Response & Security Hardening       Secure SDLC & OWASP Practices
-Cloud Security (AWS, Azure AD)               Python Security Scripting & Automation
+Application Security              NIST CSF · ISO 27001 · SOC 2 · HIPAA
+OWASP Top 10 & ASVS               GRC · Risk Assessment · Threat Modeling
+Secure SDLC · Secure Code Review  RBAC · IAM · Zero Trust Architecture
+Vulnerability Management          Cloud Security (AWS, Azure)
+Incident Response                 Python Security Tooling & Automation
 ```
 
 ---
 
-## Featured Repositories
+## Featured Projects
 
-| Repository | Description |
+| Repository | What it is |
 |---|---|
-| [🔒 security-audit-toolkit](https://github.com/batuhan-satilmis/security-audit-toolkit) | Python toolkit for automated security configuration auditing aligned with NIST & CIS |
-| [🗺️ threat-modeling-framework](https://github.com/batuhan-satilmis/threat-modeling-framework) | STRIDE-based threat modeling templates with MITRE ATT&CK mapping and risk registers |
-| [🚨 incident-response-playbook](https://github.com/batuhan-satilmis/incident-response-playbook) | Structured IR procedures, escalation checklists, and response templates |
-| [🏠 property-finder](https://github.com/batuhan-satilmis/property-finder) | React app with Firebase Auth, RBAC, and secure API integration |
+| [**forsman-crm-showcase**](https://github.com/batuhan-satilmis/forsman-crm-showcase) | Architecture, threat model, and OWASP control mapping for a production multi-tenant SaaS I designed and built. *No source code — by design.* |
+| [**owasp-saas-hardening-guide**](https://github.com/batuhan-satilmis/owasp-saas-hardening-guide) | Practical, code-first walkthroughs of every OWASP Top 10 risk in Node.js + React SaaS, with reference fixes and tests. |
+| [**threat-modeling-framework**](https://github.com/batuhan-satilmis/threat-modeling-framework) | STRIDE worksheets, MITRE ATT&CK mappings, and a small Python tool to generate risk registers from `.yaml` threat models. |
+| [**security-audit-toolkit**](https://github.com/batuhan-satilmis/security-audit-toolkit) | Python toolkit that audits AWS / Azure / Microsoft 365 configurations against NIST CSF and CIS benchmarks; outputs prioritized remediation. |
+| [**incident-response-playbook**](https://github.com/batuhan-satilmis/incident-response-playbook) | NIST 800-61–aligned runbooks for cloud credential compromise, data exfiltration, ransomware, and BEC, with executive-summary templates. |
+| [**property-finder**](https://github.com/batuhan-satilmis/property-finder) | Full-stack React + Firebase app with hardened auth, RBAC, and encrypted API calls. |
 
 ---
 
-## Tech & Tools
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Languages**: Python · JavaScript / Node.js · TypeScript · SQL · C#
+**Frameworks & Runtime**: React · Express · Vite · Tailwind
+**Data**: PostgreSQL · Supabase (Row-Level Security) · Firebase
+**Cloud**: AWS · Microsoft Azure / Entra ID · Vercel · Railway
+**Security tooling**: Burp Suite · OWASP ZAP · Nmap · Wireshark · Splunk (foundational)
+**IT / IAM**: Active Directory · Microsoft 365 · Google Workspace · ITSM (KBOX)
 
 ---
 
 ## Certifications
 
 - 🛡️ CompTIA Security+
-- 🤖 IBM Applied AI Specialization
-- 🐍 Python Essentials 1 & 2 — Cisco Networking Academy
-- 💻 Full-Stack Engineer — Codecademy
+- 🤖 IBM Applied AI Specialization (Coursera)
+- 🧪 Python Essentials 1 & 2 (Cisco Networking Academy)
+- 💻 Full-Stack Engineer (Codecademy)
 
 ---
 
-> *Open to Cybersecurity Analyst, Security Engineer, and IT/Security Consultant roles in the SF Bay Area and remote.*
-> *Feel free to connect on [LinkedIn](https://linkedin.com/in/batuhan-satilmis) or reach out at batuhansatilmis@outlook.com*
+## Open To
+
+Application Security Engineer · IT Security Consultant · GRC Analyst · Security Engineer roles in the SF Bay Area and remote.
+
+Reach me on [LinkedIn](https://linkedin.com/in/batuhan-satilmis) or at [batuhan@satilmis.me](mailto:batuhan@satilmis.me).
