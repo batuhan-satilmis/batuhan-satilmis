@@ -15,7 +15,7 @@ Currently founder & security consultant at **[Forsman Technology & Consulting](h
 
 - 🎓 **B.A.S. Information Security & Assurance** — University of Hawaii, West Oahu
 - 🛡️ **CompTIA Security+** certified
-- 📰 Author of **5 published industry briefs** on Industrial Control Systems & critical infrastructure cybersecurity (UH West Oahu CSCC)
+- 📰 Author of **5 published industry briefs** on Industrial Control Systems & critical infrastructure cybersecurity
 
 ---
 
