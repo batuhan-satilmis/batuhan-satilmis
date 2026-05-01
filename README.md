@@ -11,7 +11,7 @@
 
 Application-security-focused practitioner. I design, build, and harden production SaaS against the OWASP Top 10 — RBAC, JWT auth, Supabase Row-Level Security, field-level encryption, CSP/CSRF defenses, audit logging — and translate the result into NIST CSF / SOC 2 / HIPAA strategy that engineering and executive audiences both understand.
 
-Currently founder & security consultant at **[Forsman Technology & Consulting LLC](https://forsmantech.com)**, where I built the **Forsman CRM** — a multi-tenant SaaS platform implementing the full OWASP Top 10 control set — and deliver NIST CSF–aligned posture assessments, Zero Trust roadmaps, and HIPAA-aware integrations for SMB clients.
+Currently founder & security consultant at **[Forsman Technology & Consulting](https://forsmantech.com)**, where I built the **Forsman CRM** — a multi-tenant SaaS platform implementing the full OWASP Top 10 control set — and deliver NIST CSF–aligned posture assessments, Zero Trust roadmaps, and HIPAA-aware integrations for SMB clients.
 
 - 🎓 **B.A.S. Information Security & Assurance** — University of Hawaii, West Oahu
 - 🛡️ **CompTIA Security+** certified
