@@ -2,7 +2,7 @@
 
 ### Application Security Engineer · IT Security Consultant · GRC Analyst
 
-📍 San Francisco Bay Area · Open to remote and hybrid
+📍 Raleigh, NC · Open to remote and hybrid
 🌐 [forsmantech.com](https://forsmantech.com) · 💼 [LinkedIn](https://linkedin.com/in/batuhan-satilmis) · ✉️ batuhan@satilmis.me
 
 ---
